@@ -30,4 +30,4 @@ Recomendamos utilizar un IDE para facilitar el desarrollo. Ejemplo:
 Abrir el IDE y seleccionar la opción para crear un nuevo proyecto en Java.
 Selecciona el JDK instalado como el SDK del proyecto.
 
-Para más información revise [Manual del usuario][Manual Plaga.pdf](https://github.com/SinR0str0/Proyecto-Plaga/blob/main/Manual%20Plaga.pdf)
+Para más información revise [Manual del usuario](https://github.com/SinR0str0/Proyecto-Plaga/blob/main/Manual%20Plaga.pdf)
