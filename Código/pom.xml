@@ -45,11 +45,6 @@
             <artifactId>jcalendar</artifactId>
             <version>1.4</version>
         </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>19</version> <!-- Reemplaza con la versión que prefieras -->
-        </dependency>
     </dependencies>
     
 </project>
